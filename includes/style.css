@@ -2,9 +2,9 @@
     height: 200px;
     background: #aaa;
   }
-  .main img{
-  width: 290px;
+
+ img{
+  width: 400px;
   height: 290px;
-  margin-right: 0px;
-  margin-left: 0px;
+  margin: auto;
 }
